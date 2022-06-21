@@ -3,7 +3,7 @@
     {
       "name": "Test",
       "setup": "npm install",
-      "run": "jest",
+      "run": "npm run test",
       "input": "",
       "output": "",
       "comparison": "included",
